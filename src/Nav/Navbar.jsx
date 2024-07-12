@@ -4,7 +4,7 @@ import './Navbar.css';
 function Navbar(){
 
 return (
-<div className="hemaWebsite__navbar gradient__bg">
+<div className="project__navbar gradient__bg">
 <li>
     <a href="#">Αρχική</a>
 </li>
