@@ -4,18 +4,21 @@ import './Navbar.css';
 function Navbar(){
 
 return (
-<div className="navbar">
+<div className="hemaWebsite__navbar gradient__bg">
 <li>
-    <a href="#">Home</a>
+    <a href="#">Αρχική</a>
 </li>
 <li>
-    <a href="#">Who Are We</a>
+    <a href="#">Ποιοί Είμαστε</a>
 </li>
 <li>
-    <a href="#">Training</a>
+    <a href="#">Προπονήσεις</a>
 </li>
 <li>
-    <a href="#">Contact us</a>
+    <a href="#">Τι είναι η Ιστορική Σπαθασκία;</a>
+</li>
+<li>
+    <a href="#">Επικοινωνία</a>
 </li>
 
 

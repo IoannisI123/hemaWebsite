@@ -1,3 +1,23 @@
-body{
-    background-color: black;
+*{
+
+    box-sizing: border-box;
+    padding:0;
+    margin:0;
+    scroll-behavior: smooth;
 }
+
+
+:root{
+
+    --color-bg:#FFF; 
+    --color-text:#FFF;
+    --color-subtext:#FF8A71;
+    --color-main:#3d763d;
+    --color-hover:#33a333;}
+
+    .gradient__bg{
+        background: rgb(38,102,70);
+        background: -moz-linear-gradient(90deg, rgba(38,102,70,1) 31%, rgba(23,158,46,0.8848165731136204) 90%);
+        background: -webkit-linear-gradient(90deg, rgba(38,102,70,1) 31%, rgba(23,158,46,0.8848165731136204) 90%);
+        background: linear-gradient(90deg, rgba(38,102,70,1) 31%, rgba(23,158,46,0.8848165731136204) 90%);
+        filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#266646",endColorstr="#179e2e",GradientType=1);;}
