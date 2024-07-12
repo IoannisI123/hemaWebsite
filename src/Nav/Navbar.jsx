@@ -12,14 +12,16 @@ return (
     <a href="#">Ποιοί Είμαστε</a>
 </li>
 <li>
-    <a href="#">Προπονήσεις</a>
+    <a href="#">Συστήματα</a>
 </li>
 <li>
     <a href="#">Τι είναι η Ιστορική Σπαθασκία;</a>
 </li>
 <li>
-    <a href="#">Επικοινωνία</a>
+    <a href="#">Blog</a>
 </li>
+
+<li className="project__seperator"> | </li>
 
 
 </div>

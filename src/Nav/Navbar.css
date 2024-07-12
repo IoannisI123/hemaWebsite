@@ -1,6 +1,6 @@
 .project__navbar{
     list-style: none;
-    font-size: 1.3em;
+    font-size: 1.2em;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -16,5 +16,10 @@ a {
     color:var(--color-text);
     text-decoration: none;
 
+}
+
+.project__seperator{
+    color: var(--color-text);
+    font-size:1.1em;
 }
 
