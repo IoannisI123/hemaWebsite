@@ -1,0 +1,25 @@
+.navbar{
+    list-style: none;
+    font-size: 1.3em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+li {
+    display:inline-block;
+    margin: 10px;
+    margin:10px;
+    padding:0;
+}
+
+
+a {
+    color: green;
+    text-decoration: none;
+
+}
+
+a:hover{
+    color:greenyellow;
+}
