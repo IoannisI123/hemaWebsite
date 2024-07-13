@@ -10,10 +10,5 @@ li {
     display:inline-block;
     margin: 15px;
     height: 30px;
-}
-
-a {
-    color:var(--color-text);
-    text-decoration: none;
-
+    color:var(--color-text)
 }
