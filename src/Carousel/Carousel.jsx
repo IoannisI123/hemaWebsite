@@ -5,7 +5,7 @@ function Carousel(){
 
 return (
 <section>
-<img src = "/public/f488ee813e6ee0363c5eec1c4f23515b.png"/>
+<img src = "/public/Mair_longsword_003.jpg"/>
 </section>
 );
 }
